@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AmpUpSDK",
-            url: "https://raw.githubusercontent.com/AmpUp-me/ampup-ios-sdk/v0.1.3/AmpUpSDK.xcframework.zip",
-            checksum: "bb68e32ba77a1ad1ecf850a740ca7ec054a3a3ac1c890f35b3220a4683bc56f9"
+            url: "https://raw.githubusercontent.com/AmpUp-me/ampup-ios-sdk/v0.1.4/AmpUpSDK.xcframework.zip",
+            checksum: "8ef0be69cffcef82d79606f091c8cef84331ffd1e44ad771fd19a5fade8498a5"
         ),
     ]
 )
